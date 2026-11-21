@@ -1,5 +1,7 @@
 package ec.edu.unl.babernow.vista;
-
+/*
+@authors: Camilo Merino, Carlos Cevallos, Tyrone Encarnación, David Luna
+**/
 import ec.edu.unl.babernow.dominio.Barbero;
 import ec.edu.unl.babernow.dominio.Cita;
 import ec.edu.unl.babernow.dominio.Cliente;

@@ -1,5 +1,7 @@
 package ec.edu.unl.babernow.dominio;
-
+/*
+*@authors: Camilo Merino, Carlos Cevallos, Tyrone Encarnación, David Luna
+**/
 import java.time.LocalDateTime;
 import java.util.ArrayList;
 
